@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\3183\source\repos\2016cse2022-02-2016112145\consoleapplication2\consoleapplication2\source.cpp(73): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\3183\source\repos\2016cse2022-02-2016112145\consoleapplication2\consoleapplication2\source.cpp(83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\3183\source\repos\2016cse2022-02-2016112145\consoleapplication2\consoleapplication2\source.cpp(93): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\3183\Source\Repos\2016CSE2022-02-2016112145\ConsoleApplication2\Debug\ConsoleApplication2.exe
